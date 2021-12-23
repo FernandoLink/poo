@@ -1,2 +1,1 @@
-# poo
-Orientação a Objetos em Python
+# Orientação a Objetos em Python
